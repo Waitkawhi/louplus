@@ -1,3 +1,4 @@
-﻿上次commit还没push到远程仓，此时再commit一次，测试git branch -avv命令
+上次commit还没push到远程仓，此时再commit一次，测试git branch -avv命令
 
 撤回了一次push，然后增加了这一行，在push到远程仓
+在github上在线修改
